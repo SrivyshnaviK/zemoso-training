@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello greetings
 merge sort greetings
 i changed
@@ -7,3 +8,6 @@ hello
 greetings
 
 >>>>>>> parent of 23d40d8 (mergesort commit)
+=======
+hi
+>>>>>>> 4ce371bc63ad721666624ea9276a5389c6f61139
